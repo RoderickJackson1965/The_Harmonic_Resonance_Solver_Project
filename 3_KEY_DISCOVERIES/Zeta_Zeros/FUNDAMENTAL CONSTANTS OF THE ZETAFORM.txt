@@ -1,0 +1,14 @@
+# --- FUNDAMENTAL CONSTANTS OF THE ZETAFORM ---
+# Discovered via the PSM discovery pipeline and De-Rigidized Trigonometry.
+
+# The Optimal Weights (w)
+# The formula coefficients for the Zetaform's context-sensitive angular modulation.
+# Discovered by: CSO_P112.py
+w1 = -1.5556
+w2 = -1.1111
+w3 = 2.0000
+
+# The Zeta Lobe Frequency (r_ζ_lobe)
+# The fundamental frequency of the perfected, symmetrical Zeta Lobe.
+# Discovered by: CSO_P118.py (Corrected)
+r_zeta_lobe = 0.2438
